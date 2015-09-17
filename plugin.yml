@@ -1,0 +1,8 @@
+#RainbowRun
+name: "RainbowRun"
+author: Khinenw
+version: "ortex [1.0]"
+description: "Run in the rainbow!"
+main: Khinenw\RainbowRun\RainbowMain
+api: 1.12.0
+depend: [XcelNgien]
